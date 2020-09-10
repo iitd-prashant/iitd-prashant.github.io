@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Prashant Kumar: National Institute of Technology, Delhi, India</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine&amp;v1" />
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+
+<html>
+	<head>
+		<title>presentations</title>
+		<link rel="stylesheet" type="text/css" href="css/cs511.css">
+		<style type="text/css">
+			#content  { 
+				float:left; 
+				margin-left:100px;
+			}
+			.topics {
+				background-color:#a9a9a9;
+			}
+			#faculty{
+				float:left;
+			}
+			#projects{
+				float:right;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<h2 style="text-align:left;">
+				Conference/Book-Chapter Presentations</h2>
+			
+			<p>
+				1.<a href="http://www.rkgit.edu.in/conf/m3hpcst-2015/"> Kumar, P., Gulshan., Kim K.I.,  International Conference on Modern Mathematical methods and High Performance Computing in Science and Technology (M3HPCST 2015) organized by RKGIT, Ghaziabad U. P. on 27th December 2015 to 29th December 2015 and presented a paper with title “A moored ship Motion Analysis in Realistic Pohang New Harbor and Modified PNH”, vol. 171, Proceedings of M3HPCST 2015. </a></p>
+<p>
+				2.<a href="http://www.nitw.ac.in/icchmt_2015/index.php"> Kumar, P., Kim K.I., International Conference on Computational Heat and Mass Transfer (ICCCHMT-2015) organized by Department of Mathematics, National Institute of Technology, Warangal Orissa on 30th November 2015 to 2nd December 2015 and Presented a paper with title “Hydrodynamics modeling of moored ship motion in an irregular domain, Vol. 127, Proceeding of ICCCHMT-2015. </a></p>
+3.<a href="http://see.postech.ac.kr/dataroom/dataroomview.do#">  Kumar, P., Min, S.K., 2015 Climate Variability Workshop, School of Environment Science and Engineering, POSTECH, Pohang, South Korea, on 12th -13th January 2015,  and the title “Influence of Climate variability modes."</a></p>
+4.<a href="https://drive.google.com/file/d/0BzAxN5nmEqGMbmV0RVo3b2VPRGc/view">  Kumar, P., Zhang, H., Kim K. I., 7th International conference on Mathematical Science for Advancement of Science and Technology (MSAST 2013), Kolkata, India on 21st -23rd December 2013, and the title “A 3-D Boundary Element Model to Analyze the Multidirectional Random wave diffraction in a Harbor with Complex Geometry.”, vol. 2, proceedings  of MSAST 2013</a></p>
+5.<a href="http://www.kms.or.kr/conference/abstract/search_view.html?num=4475&uid=27&start=0&sort=sortDate&period=27&cate=Numerical%20Analysis%20/%20Scientific%20Computations%20/%20Mathematics%20in%20Science%20and%20Technology&etitle=&key_word=&au_name=&au_ename=&au_office=&au_eoffice=&mode=search&section=Poster%20Session">  Kumar, P., Zhang, H., Kim K. I., The Asian Mathematical Conference (AMC-2013) at BEXCO center, Busan, South Korea on 30th June-4th July 2013, and the title “A moored ship motion analysis in arbitrary harbor geometry with various directional incident waves”. Vol. 2013, no. 1., Sub. No.; 0471, Proceeding of KMS 2013</a></p>
+6.<a href="http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02078843"> Kumar, P., Kim K. I., KSIAM conference at Kyungpook National University, Daegu on 23rd – 24th Nov. 2012, and the title “Spectral density analysis of a moored ship motion in Pohang New Harbor.” vol. 7 No. 2, Proceedings of KSIAM 2012.</a></p>
+7.<a href="http://mathsoc.jp/meeting/kyushu12sept/summary12sept_en_20120816.pdf"> Kumar, P., Kim K. I., Mathematical Society of Japan (MSJ) Autumn Meeting 2012, Kyushu University, Fukuoka, Japan on 18th -22nd  Sep. 2012, and the title “Mathematical modeling of the ship hydrodynamics in Pohang New Harbor”, p 86, Proceedings of KMS-MSJ proceedings.</a></p>
+8.<a href="Presentations/SITIS12.pdf"> Kumar, P., Kim K. I., International Conference on Mathematical Modeling and Applied Soft Computing (MMASC-2012), Coimbatore India on 11th -13th July 2012, and the title “Numerical Simulation of the Pohang New Harbor for Sciche Reduction”,  vol. 2, Proceedings of  MMASC 2012. </a></p>
+9.<a href="http://www.kms.or.kr/eng/conference/abstract/search_view.html?num=3718&uid=25&start=0&sort=sortDate&period=25&cate=Applied%20Mathematics&etitle=&key_word=&au_name=&au_ename=&au_office=&au_eoffice=&mode=search&section=Contributed%20Talk">  Kumar, P., Kim K. I., KMS Spring Meeting 2012 Sookmyung Women’s University Seoul on 28th April 2012, and the title “Spectral density analysis of the Pohang new harbor”, vol. 2012, no. 1., Sub. No.: 0070, Proceedings of KMS 2012.</a></p>
+10.<a href="http://www.kms.or.kr/eng/conference/abstract/search_view.html?num=3617&uid=24&start=180&sort=sortDate&period=24&cate=&etitle=&key_word=&au_name=&au_ename=&au_office=&au_eoffice=&mode=search&section=f">  Kumar, P., Kim B., Kim K. I., KMS Fall Meeting 2011, Kyungpuk National University, Daegu, South Korea on 21st -22n October 2011, and the title “The Boundary Integral Method for the Computation of Linearized Ocean Surface Wave Fields in a Highly Irregular Bounded Geometry”, vol. 2012, no. 2, Sub. no.: 0130, Proceedings  of KMS 2011.</a></p>
+11.<a href="http://www.kms.or.kr/eng/conference/abstract/search_view.html?num=3099&uid=22&start=0&sort=sortDate&period=22&cate=&etitle=&key_word=&au_name=&au_ename=&au_office=&au_eoffice=&mode=search&section=">  Kumar, P., Kim K. I., 2010 Global KMS International Conference, POSTECH, Pohang on 22n-23rd    October  2010,  and  the  title  “Wave-Induced  Ship  Motion Analysis in the POSCO New Harbor via Helmholtz Equation with Numerical Simulations”, vol. 2001, no. 2, Sub. no.: 0123, Proceedings of KMS2010.</a></p>
+12.<a href="http://barbra-coco.dyndns.org/icm/short_Aug12.pdf">  Kumar, P., Kim K. I., International Congress of Mathematics (ICM)-2010 Hyderabad India on 19th -27th  August 2010, and the title “A moored ship motion analysis with the resonant frequency waves in the POSCO New Harbor” Proceedings of ICM 2010.	</a></p>
+13.<a href="Presentations/WWW2014.pdf">  Kumar, P., Kim K. I., International Conference on Challenges and Applications of Mathematics in Science and Technology (CAMIST-2010), organized by Department of Mathematics, NIT ROURKELA India on 11th -13th January 2010, and the title “Theoretical analysis and model based simulation of the POSCO New Harbor and the modified POSCO New Harbor.”, vol. 29, pp. 329-337, Proceedings of CAMIST 2010.	</a></p>
+14.<a href="http://www.kms.or.kr/conference/abstract/search_view.html?num=2471&uid=20&start=0&sort=sortDate&period=20&cate=Applied%20mathematics&etitle=&key_word=&au_name=&au_ename=&au_office=&au_eoffice=&mode=search&section=">  Kumar, P., Kim K. I. , 2009 Joint meeting of Korean Mathematical Society (KMS) and American Mathematical Society (AMS), Ewha Women’s University, Seoul, Korea on 16th -20th December 2009, and the title “Theoretical analysis and model based simulation to resolve the cause of POSCO New Harbor hazards”. Vo. 2009, no.2, Sub. no. 0455, Proceeding of 2009 KMS-AMS.	</a></p>
+15.<a href="Presentations/WWW2014.pdf">  Kumar, P., Kim K.I., National Symposium on Hyperbolic PDE at Indian Institute of Technology Bombay, Mumbai, India, from 14th-17th July 2008 title “Theoretical analysis of wave oscillation of arbitrary shaped harbor”. </a>
+</p>
+</head>
+	<body>
+		<div id="header">
+			<h2 style="text-align:left;">
+				Invited Talks</h2>
+<p>
+
+		        1.<a href="Presentations/IITRopar.pdf"> Modeling and Analysis of Moored Ship Motion in Pohang New Harbor under the Resonance Conditions, June 19, 2015, Deparment of Mathematics, POSTECH South Korea. </a></p>
+                2.<a href="Presentations/IITJodh.pdf"> Influence of Climate Variability on Extreme Ocean Wave Height Assessed From ERA-Interim and ERA40 Reanalyses, June 25, 2015, CCRL, POSTECH, South Korea. </a></p>
+				3.<a href="Presentations/IITJodh.pdf"> Stress analysis in mooring ropes and fender of a Moored ship under the resonance Conditions, June 30, 2015, Deparment of Mathematics, POSTECH South Korea. </a></p>
+				4.<a href="Presentations/IITJodh.pdf"> Moored Ship Motion Analysis in a complex geometry Domain, December31, 2015, Deparment of Mathematics, POSTECH South Korea. </a></p>
+				5.<a href="Presentations/IITJodh.pdf"> Impact of El Nino on Ocean Surface Wave Height for ERA-Interim and ERA20C Reanalyses, January 2, 2016, Deparment of Mathematics, POSTECH South Korea. </a></p>
+				6.<a href="Presentations/IITJodh.pdf"> Hybrid Finite Element Modeling for wave oscillation in Pohang New Harbor, January 4, 2016, Deparment of Mathematics, POSTECH South Korea. </a></p>
+
+	</body>
+</html>
+
